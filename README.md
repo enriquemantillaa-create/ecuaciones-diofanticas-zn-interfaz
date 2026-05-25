@@ -36,5 +36,5 @@ Para ejecutar este software de forma local, asegúrese de contar con **Python 3.
 
 1. Clone este repositorio en su máquina local o descargue el archivo comprimido:
    ```bash
-   git clone [https://github.com/enriquemantillaa-create/ecuaciones-diofanticas-zn-interfaz.git](https://github.com/enriquemantillaa-create/ecuaciones-diofanticas-zn-interfaz.git)
-   cd Interfaz
+   git clone https://github.com/enriquemantillaa-create/ecuaciones-diofanticas-zn-interfaz.git
+cd ecuaciones-diofanticas-zn-interfaz
