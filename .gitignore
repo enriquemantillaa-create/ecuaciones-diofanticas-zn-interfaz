@@ -1,0 +1,9 @@
+# Cache de ejecución de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
