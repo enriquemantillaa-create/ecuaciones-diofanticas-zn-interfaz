@@ -1,4 +1,4 @@
-# Interfaz Gráfica para la Resolución de Ecuaciones Diofánticas en $\mathbb{Z}_n$
+# Interfaz Gráfica para la solución de Ecuaciones Diofánticas en $\mathbb{Z}_n$
 
 Este repositorio contiene el componente computacional desarrollado como parte de un trabajo de grado en matemáticas enfocado en la aritmética modular. La aplicación implementa una interfaz gráfica interactiva **desarrollada en el lenguaje de programación Python** que automatiza y permite visualizar la transposición de los métodos de resolución de ecuaciones diofánticas desde el conjunto de los enteros ($\mathbb{Z}$) hacia el anillo de los enteros módulo $n$ ($\mathbb{Z}_n$).
 
