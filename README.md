@@ -21,6 +21,13 @@ Este repositorio contiene el componente computacional desarrollado como parte de
 
 ---
 
+## Arquitectura del Software
+
+A continuación se presenta el diseño estructural de las clases de la interfaz y su interacción con el motor matemático:
+
+![Diagrama de Clases UML](./assets/UML.png)
+
+
 ## Soporte Teórico y Algorítmico (Jupyter Notebooks)
 
 Para complementar la aplicación y ofrecer un trasfondo académico riguroso, este proyecto incluye cuadernos de **Jupyter Notebook** (ubicados en la carpeta `teoria/`) donde se desarrolla en formato ejecutable:
